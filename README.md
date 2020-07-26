@@ -22,5 +22,5 @@ Fazer um menu que realiza 6 operações diferentes em dois valores quaisquer
 6) OU lógico (OR)
 
 ## Tarefa 3: 
-Fazer e exibir a ordenação do vetor A
+Fazer e exibir a ordenação do vetor A  
 A = { 3, 9, 17, 2, 51, 37, 13, 4, 8, 41, 67, 10 }
