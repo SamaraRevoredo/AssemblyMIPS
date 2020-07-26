@@ -7,7 +7,7 @@ Professor: Diogo Pinheiro F. Pedrosa
 Linguagem: Assembly MIPS  
 IDE: Qtspim
 
-LINK para baixar QTSPIM no windows: https://sourceforge.net/projects/spimsimulator/files/
+LINK para baixar QTSPIM no windows: https://sourceforge.net/projects/spimsimulator/files/  
 Tabela de mnemônicos: https://chortle.ccsu.edu/AssemblyTutorial/Chapter-24/ass24_4.html
 
 ## Tarefa 1:
