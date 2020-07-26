@@ -1,10 +1,10 @@
 # AssemblyMIPS
 
-Nome: Samara Revoredo 
-Mat: 20170041498
-Disciplina: Arquitetura de Computadores
-Professor: Diogo Pinheiro F. Pedrosa
-Linguagem: Assembly MIPS
+Nome: Samara Revoredo   
+Mat: 20170041498  
+Disciplina: Arquitetura de Computadores  
+Professor: Diogo Pinheiro F. Pedrosa  
+Linguagem: Assembly MIPS  
 IDE: Qtspim
 
 LINK para baixar QTSPIM no windows: https://sourceforge.net/projects/spimsimulator/files/
